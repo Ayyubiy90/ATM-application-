@@ -23,10 +23,7 @@ The ATM application is developed using Java programming language. It provides a 
 1. Clone the repository: You can clone this project repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your_username/atm-application.git
-```
-
-Replace `your_username` with your GitHub username.
+git clone https://github.com/Aayyubiy90/atm-application-.git
 
 2. Set up the Database: The ATM application requires a database to store account information and transaction records. Ensure that you have set up the database (e.g., MySQL) and imported the necessary schema.
 
